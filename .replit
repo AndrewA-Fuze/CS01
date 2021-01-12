@@ -1,0 +1,2 @@
+language = "cpp"
+run = "run=\"run =\"clang++- -pthread -std=c++17 -o main main.cpps; ./main"
